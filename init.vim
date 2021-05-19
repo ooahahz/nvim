@@ -6,7 +6,7 @@
 
 
 " Author:@ooahahz
-" Time: 5/19 14:01
+" you can clone my init.vim to your vimrc.
 
 "===
 "=== Auto load for first time uses
