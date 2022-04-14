@@ -5,7 +5,7 @@
 " |_|  |_| |_|      \_/  |___|_|  |_|_| \_\\____|
 
 
-" Author:@ooah
+" Author:@ooah(haohao)
 " you can clone my init.vim to your vimrc.
 
 "===
